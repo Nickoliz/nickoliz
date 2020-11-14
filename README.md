@@ -38,7 +38,8 @@ Check out my [portfolio].
 
 <br />
 <br />
----
+<hr />
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
