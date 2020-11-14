@@ -55,7 +55,7 @@ Check out my [portfolio].
 </details>
 
 [linkedIn]: https://linkedin.com/in/nicholaslitz
-[angelList]: https//angel.co/u/nick-litz
+[angelList]: https://angel.co/u/nick-litz
 [portfolio]: https://www.nicholaslitz.com
 [tacktivity]: https://tacktivity.herokuapp.com/
 [gameShare]: https://game-share-ltz.herokuapp.com/
