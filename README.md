@@ -3,7 +3,7 @@
 Check out my [portfolio].
 
 ### I'm a Developer, Learner, Husband, and Father of 2!
-- 🔭 I’m currently working on Tacktivity[tacktivity] and Game Share[gameShare].
+- 🔭 I’m currently working on [Tacktivity] and [Game Share].
 - 🌱 I’m currently learning more and more with React. Next up: React Native!
 - 💬 Ask me about my projects!
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nicholaslitz) [Angel List](www.angel.co/u/nick-litz)
@@ -58,5 +58,5 @@ Check out my [portfolio].
 [linkedIn]: https://linkedin.com/in/nicholaslitz
 [angelList]: https://angel.co/u/nick-litz
 [portfolio]: https://www.nicholaslitz.com
-[tacktivity]: https://tacktivity.herokuapp.com/
-[gameShare]: https://game-share-ltz.herokuapp.com/
+[Tacktivity]: https://tacktivity.herokuapp.com/
+[Game Share]: https://game-share-ltz.herokuapp.com/
