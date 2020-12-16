@@ -1,8 +1,8 @@
-### Hey, there! I'm Nick! 👋
+### Hey! I'm Nick! 👋
 
 Check out my [portfolio].
 
-### I'm a Developer, Learner, Husband, and Father of 2!
+### I enjoy programming, learning, and family.
 - 🔭 I’m currently working on [Tacktivity] and [Game Share].
 - 🌱 I’m currently learning more and more with React. Next up: React Native!
 - 💬 Ask me about my projects!
