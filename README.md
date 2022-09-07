@@ -2,10 +2,13 @@
 
 Check out my [portfolio].
 
+I'm currently working full time as a Software Developer and don't have much time for passion projects between work, 2 kids under 6, and a pregnant wife.
+Don't be alarmed that I haven't been "working" since I've been _working_!
+
 ### I enjoy programming, learning, and family.
 - 🔭 I’m currently a Software Developer at General Motors.
-- 🌱 I’m currently working with Spring Boot, Angular and Oracle.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nicholaslitz) [Angel List](www.angel.co/u/nick-litz)
+- 🌱 I’m currently working with Spring Boot, Angular, Oracle, Postgres.
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nicholaslitz) || [Angel List](www.angel.co/u/nick-litz)
 - ⚡ Fun fact: Completed all of my secondary education while my wife and I had 2 children. I'm tired but I'm hungry!
 
 ### Get In Touch With Me!
@@ -57,7 +60,6 @@ Check out my [portfolio].
 </details>
 
 [linkedIn]: https://linkedin.com/in/nicholaslitz
-[angelList]: https://angel.co/u/nick-litz
 [portfolio]: https://www.nicholaslitz.dev
 [Tacktivity]: https://tacktivity.herokuapp.com/
 [Game Share]: https://game-share-ltz.herokuapp.com/
