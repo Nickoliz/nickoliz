@@ -60,6 +60,6 @@ Check out my [portfolio].
 
 [linkedIn]: https://linkedin.com/in/nicholaslitz
 [angelList]: https://angel.co/u/nick-litz
-[portfolio]: https://www.nicholaslitz.com
+[portfolio]: https://www.nicholaslitz.dev
 [Tacktivity]: https://tacktivity.herokuapp.com/
 [Game Share]: https://game-share-ltz.herokuapp.com/
