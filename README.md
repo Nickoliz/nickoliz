@@ -3,15 +3,13 @@
 Check out my [portfolio].
 
 ### I enjoy programming, learning, and family.
-- 🔭 I’m currently working on [Tacktivity] and [Game Share].
-- 🌱 I’m currently learning more and more with React. Next up: React Native!
-- 💬 Ask me about my projects!
+- 🔭 I’m currently a Software Developer at General Motors.
+- 🌱 I’m currently working with Spring Boot, Angular and Oracle.
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nicholaslitz) [Angel List](www.angel.co/u/nick-litz)
 - ⚡ Fun fact: Completed all of my secondary education while my wife and I had 2 children. I'm tired but I'm hungry!
 
 ### Get In Touch With Me!
-[<img align="left" alt="nick-litz-LinkedIn" width="22px" src="https://www.capillaryconsulting.com/wp-content/uploads/2016/02/linkedin-logo.png" />][linkedIn]
-[<img align="left" alt="nick-litz-AngelList" width="22px" src="https://maxcdn.icons8.com/Share/icon/Logos/angellist1600.png" />][angelList]
+[<img align="left" alt="nick-litz-LinkedIn" width="22px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedIn]
 
 <br />
 
