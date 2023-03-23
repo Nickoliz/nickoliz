@@ -7,9 +7,9 @@ Don't be alarmed that I haven't been "working" since I've been _working_!
 
 ### I enjoy programming, learning, and family.
 - 🔭 I’m currently a Software Developer at General Motors.
-- 🌱 I’m currently working with Spring Boot, Angular, Oracle, Postgres.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nicholaslitz) || [Angel List](www.angel.co/u/nick-litz)
-- ⚡ Fun fact: Completed all of my secondary education while my wife and I had 2 children. I'm tired but I'm hungry!
+- 🌱 I’m currently working with Java (Spring Boot), TypeScript (Angular), Python, Oracle, Windows Server, Apache Tomcat, Ubuntu.
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nicholaslitz)
+- ⚡ My Son told me this joke....Q: Why do you put sugar on your pillow at night? A: So you get a sweet tooth.
 
 ### Get In Touch With Me!
 [<img align="left" alt="nick-litz-LinkedIn" width="22px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedIn]
