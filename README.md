@@ -2,7 +2,7 @@
 
 Check out my [portfolio].
 
-I was recently impacted by the General Motors, Arizona IT center. Effective, 10/31 I will be able to start a new role.
+I was recently impacted by the closure of the General Motors, Arizona IT center. Effective, 10/31 I will be able to start a new role.
 I'm currently focusing my attention on the job hunt and the following skills building studies:
 - Django and Python
 - Android Developer (mobile development and Kotlin)
