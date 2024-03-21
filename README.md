@@ -10,7 +10,7 @@ I'm currently focusing my attention on the job hunt and the following skills bui
 - Product Management studies
 
 ### I enjoy programming, learning, and family.
-- 🔭 I’m currently a Software Developer at General Motors until 10/31/23 when I become a Free Agent.
+- 🔭 Software Developer at General Motors until 10/31/23 when I become a Free Agent.
 - 🌱 I’m currently working with Java (Spring Boot), TypeScript (Angular), Python, Oracle, Windows Server, Apache Tomcat, Linux.
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nicholaslitz)
 - ⚡ Outside of career development I've been enjoying time with our 8 month old, watching my 4 year old at gymnastics, coaching my son's baseball team and trying my hand at hockey.
