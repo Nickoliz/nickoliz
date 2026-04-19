@@ -1,19 +1,13 @@
 ### Hey! I'm Nick! 👋
 
-Check out my [portfolio].
+Developer -> Product Manager
 
-I was recently impacted by the closure of the General Motors, Arizona IT center. Effective, 10/31 I will be able to start a new role.
-I'm currently focusing my attention on the job hunt and the following skills building studies:
-- Django and Python
-- Android Developer (mobile development and Kotlin)
-- RESTful API certificates
-- Product Management studies
+Currently focusing on AI powered development. Learning Claude and other tools to accelerate prototyping and design collaboration.
 
 ### I enjoy programming, learning, and family.
-- 🔭 Software Developer at General Motors until 10/31/23 when I become a Free Agent.
-- 🌱 I’m currently working with Java (Spring Boot), TypeScript (Angular), Python, Oracle, Windows Server, Apache Tomcat, Linux.
+- 🔭 Productg Manager at Western  Union
+- 🌱 Currently building a few projects with Claude to stay relevant (let's be honest). 
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nicholaslitz)
-- ⚡ Outside of career development I've been enjoying time with our 8 month old, watching my 4 year old at gymnastics, coaching my son's baseball team and trying my hand at hockey.
 
 ### Get In Touch With Me!
 [<img align="left" alt="nick-litz-LinkedIn" width="22px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedIn]
