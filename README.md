@@ -4,10 +4,9 @@ Developer -> Product Manager
 
 Currently focusing on AI powered development. Learning Claude and other tools to accelerate prototyping and design collaboration.
 
-### I enjoy programming, learning, and family.
-- 🔭 Productg Manager at Western  Union
-- 🌱 Currently building a few projects with Claude to stay relevant (let's be honest). 
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nicholaslitz)
+### I enjoy product, programming, learning, and family.
+- 🔭 Product Manager at Western  Union
+- 🌱 Currently building with Claude
 
 ### Get In Touch With Me!
 [<img align="left" alt="nick-litz-LinkedIn" width="22px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedIn]
